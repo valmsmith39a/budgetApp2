@@ -1,0 +1,28 @@
+body {
+	background-color:#B0C4DE;
+}
+
+.input {
+	position:relative;
+}
+
+.add-entry-container {
+	position:relative;
+	margin-top:2%;
+}
+
+.add-entry-button {
+	position:relative;
+}
+
+#debit-col-output {
+	color:red;
+}
+
+#credit-col-output { 
+	color:blue;
+}
+
+#balance-col-output {
+	color:black;
+}
